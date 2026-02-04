@@ -164,5 +164,5 @@ The script generates a single Excel workbook with multiple sheets:
 4. Disturbed, Undesignated
 
 ## Project Information
-- **Developed by**: [Eclipse Geomatics Ltd.](https://www.eclipsegeomatics.com)
+- **Developed by**: Ali Sehpar Shikoh - [Eclipse Geomatics Ltd.](https://www.eclipsegeomatics.com)
 - **Last Updated**: February 2026
