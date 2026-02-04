@@ -1,6 +1,6 @@
-# VEC Impact Assessment Tool
+# Impact Assessment of Infrastructure Projects on Valued Ecosystem Components
 
-This repository contains an R script for assessing project impacts on multiple Valued Ecosystem Components (VECs) across Indigenous territories. The script performs comprehensive spatial overlay analysis, calculates impact metrics by classification category, and generates detailed Excel reports for environmental assessment and consultation processes.
+This repository contains an R script for assessing project impacts on multiple Valued Ecosystem Components (VECs) within Yintah Territory. The script performs comprehensive spatial overlay analysis, calculates impact metrics by classification category, and generates detailed Excel reports for environmental assessment and consultation processes.
 
 ## Installation Guidelines
 
