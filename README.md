@@ -17,8 +17,7 @@ install.packages(c("sf", "dplyr", "openxlsx"))
 
 ## Script Overview
 
-### VEC Impact Assessment Script 
-#### (`Impact_on_VECs_Script_v7.R`)
+### VEC Impact Assessment Script
 
 This script performs multi-layered spatial impact assessment across multiple VEC datasets and territories, including:
 
@@ -128,7 +127,7 @@ vec_info <- list(
 )
 ```
 
-**Supported VEC Types in v7:**
+**Supported VEC Types:**
 - Berries
 - Cedar
 - Dry Habitat Species
