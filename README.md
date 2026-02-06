@@ -165,3 +165,4 @@ The script generates a single Excel workbook with multiple sheets:
 ## Project Information
 - **Developed by**: Ali Sehpar Shikoh - [Eclipse Geomatics Ltd.](https://www.eclipsegeomatics.com)
 - **Last Updated**: February 2026
+- **Current Version**: v2
