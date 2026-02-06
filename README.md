@@ -66,7 +66,7 @@ This script performs multi-layered spatial impact assessment across multiple VEC
 
 3. **Run the Script:**
    ```r
-   source("Impact_on_VECs_Script_v7.R")
+   source("Impact_on_VECs.R")
    ```
 
 4. **Review Output:**
