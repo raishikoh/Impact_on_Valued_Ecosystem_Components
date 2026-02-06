@@ -1,6 +1,6 @@
-# VEC Impact Assessment Tool
+# Impact Assessment of Infrastructure Projects on Valued Ecosystem Components
 
-This repository contains an R script for assessing project impacts on multiple Valued Ecosystem Components (VECs) across Indigenous territories. The script performs comprehensive spatial overlay analysis, calculates impact metrics by classification category, and generates detailed Excel reports for environmental assessment and consultation processes.
+This repository contains an R script for assessing project impacts on multiple Valued Ecosystem Components (VECs) within Yintah Territory. The script performs comprehensive spatial overlay analysis, calculates impact metrics by classification category, and generates detailed Excel reports for environmental assessment and consultation processes.
 
 ## Installation Guidelines
 
@@ -17,8 +17,7 @@ install.packages(c("sf", "dplyr", "openxlsx"))
 
 ## Script Overview
 
-### VEC Impact Assessment Script 
-#### (`Impact_on_VECs_Script_v7.R`)
+### VEC Impact Assessment Script
 
 This script performs multi-layered spatial impact assessment across multiple VEC datasets and territories, including:
 
@@ -128,7 +127,7 @@ vec_info <- list(
 )
 ```
 
-**Supported VEC Types in v7:**
+**Supported VEC Types:**
 - Berries
 - Cedar
 - Dry Habitat Species
@@ -164,5 +163,5 @@ The script generates a single Excel workbook with multiple sheets:
 4. Disturbed, Undesignated
 
 ## Project Information
-- **Developed by**: [Eclipse Geomatics Ltd.](https://www.eclipsegeomatics.com)
+- **Developed by**: Ali Sehpar Shikoh - [Eclipse Geomatics Ltd.](https://www.eclipsegeomatics.com)
 - **Last Updated**: February 2026
